@@ -1,0 +1,9 @@
+{
+  "name": "DOROTHY Token",
+  "symbol": "DRT",
+  "description": "An RWA-based STO token used for trading NFTs, functioning as a type of security for investing in carbon emission-related projects.",
+  "extensions": {
+  },
+  "tags": ["RWA, STO, NFT, Carbon"],
+  "image": "https://raw.githubusercontent.com/Bi9Snail/DRT/main/DRT_logo.png"
+}
