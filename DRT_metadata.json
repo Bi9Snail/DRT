@@ -3,7 +3,8 @@
   "symbol": "DRT",
   "description": "An RWA-based STO token used for trading NFTs, functioning as a type of security for investing in carbon emission-related projects.",
   "extensions": {
+    "website" : "https://dorothydefi.my.canva.site/"
   },
-  "tags": ["RWA, STO, NFT, Carbon"],
+  "tags": ["RWA", "STO", "NFT", "Carbon", "CRC"],
   "image": "https://raw.githubusercontent.com/Bi9Snail/DRT/main/DRT_logo.png"
 }
